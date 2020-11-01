@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Fin_AI_3</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="name_email">Username/email</string>
+    <string name="password">Password</string>
+    <string name="login_button">Log in</string>
+    <string name="title_activity_loan_officer_details">MainActivity</string>
+    <string name="officer_email">Email address</string>
+    <string name="officer_fname">First Name</string>
+    <string name="officer_lname">Last Name</string>
+    <string name="officer_password">Password</string>
+    <string name="officer_phonenumber">Phone Number</string>
+    <string name="title_activity_bank_details">MainActivity</string>
+    <string name="signup_activity_btn">Create a new account</string>
+    <string name="fname">First Name</string>
+    <string name="lName">Last Name</string>
+    <string name="pass">Password</string>
+    <string name="phone">Phone No.</string>
+    <string name="signup_btn">Sign Up</string>
+    <string name="login_activity_btn">Log in</string>
+    <string name="signup_email">Email</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+</resources>

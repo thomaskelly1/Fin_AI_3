@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176867826172",
+    "firebase_url": "https://group-project-fin-ai.firebaseio.com",
+    "project_id": "group-project-fin-ai",
+    "storage_bucket": "group-project-fin-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176867826172:android:31e5b7f566e73be749ba79",
+        "android_client_info": {
+          "package_name": "com.example.fin_ai_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176867826172-e768clnkl37atotparc0l8ko3ubhe3t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYaBOhAgLMjZ8lEZnliDdZOZYOIRdGvaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176867826172-e768clnkl37atotparc0l8ko3ubhe3t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
